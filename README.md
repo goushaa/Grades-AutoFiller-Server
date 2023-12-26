@@ -14,7 +14,7 @@ Welcome to our Flask Framework!
 
 3. **Install Dependencies:**
    ```bash
-   pip install
+   pip install -r requirements.txt
 
 4. **Install Tesseract in module1 folder**
 
