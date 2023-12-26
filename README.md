@@ -16,8 +16,7 @@ Welcome to our Flask Framework!
    ```bash
    pip install
 
-4. **Install Tesseract in module1 folder:** 
-
+4. **Install Tesseract in module1 folder** 
 5. **Start App:**
    ```bash
    python flask-server/server.py
